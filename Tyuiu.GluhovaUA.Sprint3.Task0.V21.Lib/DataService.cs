@@ -10,10 +10,10 @@ namespace Tyuiu.GluhovaUA.Sprint3.Task0.V21.Lib
         public double GetSumSeries(double value, int startValue, int stopValue)
         {
             double sumSeries = 0;
-            int i;
-            for( i = startValue; i<=stopValue; i++)
+            int k;
+            for( k = startValue; k<=stopValue; k++)
             {
-                sumSeries = sumSeries + ((Math.Pow(value,i)+(1/4)) + Math.Sin(i));
+                sumSeries = sumSeries + ((Math.Pow(value, k)+(1.0/4.0)) * Math.Sin(k));
             }
             return Math.Round(sumSeries,3);
         }

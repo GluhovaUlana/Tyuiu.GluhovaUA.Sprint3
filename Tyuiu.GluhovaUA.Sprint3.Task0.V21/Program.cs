@@ -24,7 +24,7 @@ namespace Tyuiu.GluhovaUA.Sprint3.Task0.V21
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* аписать программу используя цикл for, которая вычисляет сумму ряда      *");
-            Console.WriteLine("* по формуле sumSeries + ((Math.Pow(value,i)+(1/4)) + Math.Sin(i))        *");
+            Console.WriteLine("* по формуле sumSeries + ((Math.Pow(value,i)+(1/4)) * Math.Sin(i))        *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
