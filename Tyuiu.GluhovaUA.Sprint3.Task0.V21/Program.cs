@@ -29,7 +29,6 @@ namespace Tyuiu.GluhovaUA.Sprint3.Task0.V21
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
-
             double value = 1.5;
             int startValue = 1;
             int stopValue = 13;
