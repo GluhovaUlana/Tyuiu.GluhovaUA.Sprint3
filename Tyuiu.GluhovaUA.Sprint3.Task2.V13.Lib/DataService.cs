@@ -12,7 +12,7 @@ namespace Tyuiu.GluhovaUA.Sprint3.Task2.V13.Lib
             double s = 0;
             do
             {
-                s = s + (Math.Pow(value, startValue) + (2 / (startValue + 1))) * Math.Sin(value);
+                s = s + (Math.Pow(value, startValue) + (2.0 / (startValue + 1.0))) * Math.Sin(value);
                 startValue++;
 
             } while (startValue <= stopValue);
