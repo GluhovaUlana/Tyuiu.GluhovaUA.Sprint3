@@ -13,9 +13,9 @@ namespace Tyuiu.GluhovaUA.Sprint3.Task6.V25.Lib
             int sum = 0;
             for (x = startValue; x <= stopValue; x++)
             {
-                for (int d = 1; d <= x; d++)
+                for (int d = 1; d < 10; d++)
                 {
-                    if (x%d==0 & d <= 10)
+                    if (x%d==0)
                     {
                         sum += d;
                     }

@@ -14,13 +14,14 @@ namespace Tyuiu.GluhovaUA.Sprint3.Task6.V25
             Console.Title = "Спринт #3 | Выполнила: Глухова У. А.| ПИНб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Оператор break and contiune                                       *");
-            Console.WriteLine("* Задание #5                                                              *");
-            Console.WriteLine("* Вариант #14                                                             *");
+            Console.WriteLine("* Тема: Обработка целочисленной информации                                *");
+            Console.WriteLine("* Задание #6                                                              *");
+            Console.WriteLine("* Вариант #25                                                             *");
             Console.WriteLine("*Выполнила: Глухова У. А.| ПИНб-26-1                                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Х = 5                                                                   *");
+            Console.WriteLine("* Напишите программу, которая ищет среди целых чисел, принадлежащих       *");
+            Console.WriteLine("  числовому отрезку [16, 24] сумму всех делителей меньше 10               *");
             Console.WriteLine("                                                                          *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
