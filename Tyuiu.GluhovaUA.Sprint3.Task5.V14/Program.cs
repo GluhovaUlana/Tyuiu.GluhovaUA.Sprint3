@@ -14,7 +14,7 @@ namespace Tyuiu.GluhovaUA.Sprint3.Task5.V14
             Console.Title = "Спринт #3 | Выполнила: Глухова У. А.| ПИНб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Оператор break and contiune                                       *");
+            Console.WriteLine("* Тема:  Вложенные циклы                                                  *");
             Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #14                                                             *");
             Console.WriteLine("*Выполнила: Глухова У. А.| ПИНб-26-1                                      *");
