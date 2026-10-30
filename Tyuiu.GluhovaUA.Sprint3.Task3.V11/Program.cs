@@ -17,7 +17,7 @@ namespace Tyuiu.GluhovaUA.Sprint3.Task3.V11
             Console.Title = "Спринт #3 | Выполнила: Глухова У. А.| ПИНб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Оператор Switch                                                   *");
+            Console.WriteLine("* Тема: Использование операторов continue и break в циклах                *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #11                                                             *");
             Console.WriteLine("*Выполнила: Глухова У. А.| ПИНб-26-1                                      *");
