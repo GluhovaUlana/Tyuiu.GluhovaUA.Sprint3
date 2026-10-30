@@ -17,7 +17,7 @@ namespace Tyuiu.GluhovaUA.Sprint3.Task2.V13
             Console.Title = "Спринт #3 | Выполнила: Глухова У. А.| ПИНб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Оператор цикла foreach                                            *");
+            Console.WriteLine("* Тема: Оператор цикла do-while                                           *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #13                                                             *");
             Console.WriteLine("*Выполнила: Глухова У. А.| ПИНб-26-1                                      *");
