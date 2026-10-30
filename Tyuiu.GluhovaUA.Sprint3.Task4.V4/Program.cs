@@ -23,9 +23,7 @@ namespace Tyuiu.GluhovaUA.Sprint3.Task4.V4
             Console.WriteLine("*Выполнила: Глухова У. А.| ПИНб-26-1                                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* На отрезке, где x принимает значения от -5 до 5, вычислить              *");
-            Console.WriteLine("* значение функции y=x/(cos(x)+sin(x)).                                   *");
-            Console.WriteLine("* При х = 0 прервать цикл. Полученные значения суммировать.               *");
+            Console.WriteLine("* Написать программу для функции res += Math.Sin(x) + (2 / startValue2)   *");
             Console.WriteLine("                                                                          *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
