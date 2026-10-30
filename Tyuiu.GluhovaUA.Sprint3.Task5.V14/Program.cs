@@ -38,7 +38,7 @@ namespace Tyuiu.GluhovaUA.Sprint3.Task5.V14
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("Изменённая строка: " + ds.GetSumSumSeries( x, startValue1, startValue2, stopValue1, stopValue2));
+            Console.WriteLine("Сумма ряда: " + ds.GetSumSumSeries( x, startValue1, startValue2, stopValue1, stopValue2));
             Console.ReadKey();
         }
     }
